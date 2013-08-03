@@ -1,0 +1,8 @@
+.ui-mobile .ui-page {
+    background : transparent;
+}
+body.ui-mobile-viewport {
+    background : url('../images/back.jpg');
+    width: 100%;
+    height: 100%;
+}
